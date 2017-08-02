@@ -61,10 +61,12 @@ function artcraft_scripts() {
      * 1) название стиля (может быть любым)
      * 2) путь к файлу
      */
-    // для локальных стилей
-	wp_enqueue_style( 'artcraft-style', get_stylesheet_uri() . '/css/style.css' );
     // для внешних стилей
-	//wp_enqueue_style( 'artcraft-style', 'http://domain.com/style.css' );
+    wp_enqueue_style( 'artcraft-font-awesome', 'https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css' );
+    // для локальных стилей
+	wp_enqueue_style( 'artcraft-libs', get_template_directory_uri() . '/css/libs.min.css' );
+	wp_enqueue_style( 'artcraft-style', get_template_directory_uri() . '/css/styles.min.css' );
+
     /*
      * Подключаем скрипты:
      * Аргументы:
@@ -74,7 +76,11 @@ function artcraft_scripts() {
      * 4) версия (оставляем пустые кавычки)
      * 5) подключение в футере (true = да, false = нет)
      */
-	wp_enqueue_script( 'artcraft-script', get_template_directory_uri() . '/js/script.js', [], '', true );
+    wp_enqueue_script( 'artcraft-jquery', get_template_directory_uri() . '/js/jquery-2.1.3.min.js', [], '', true );
+    wp_enqueue_script( 'artcraft-yandex-map', 'https://api-maps.yandex.ru/2.0-stable/?load=package.standard&lang=ru-RU', [], '', true  );
+    wp_enqueue_script( 'artcraft-owl', get_template_directory_uri() . '/js/owl.carousel.min.js', [], '', true );
+    wp_enqueue_script( 'artcraft-lightbox', get_template_directory_uri() . '/js/lightbox.js', [], '', true );
+    wp_enqueue_script( 'artcraft-script-min', get_template_directory_uri() . '/js/script.min.js', [], '', true );
     /*
      * Добавляем возможность отправлять AJAX-запросы к скриптам
      * Аргументы:

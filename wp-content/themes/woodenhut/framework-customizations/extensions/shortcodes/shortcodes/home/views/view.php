@@ -7,15 +7,17 @@
   */
 
 ?>
-<header class="header">
-
+<header class="header" >
+<?php fw_print($atts) ?>
     <div class="container">
 
-        <div class="header__banner">
+        <div class="header__banner" style=" background: url(<?= $atts['background_img']['url'] ; ?>) no-repeat 50%; background-size: cover;">
             <!--<img src="img/main-banner.png" alt="">-->
 
             <div class="header__logo">
-                <img src="img/icons/logo.png" alt="">
+                <a href="/">
+                    <img src="<?= $atts['logo']['url'] ; ?>" alt="">
+                </a>
             </div>
 
             <div class="header__navbar">
@@ -33,8 +35,7 @@
 
             </div>
 
-            <h1 class="header__title"><span class="header__subtitle">umweltfreundlich und komfortabel</span>
-                Das Furnierschichtholzhaus</h1>
+            <h1 class="header__title"><?= $atts['text']; ?></h1>
 
 
         </div>

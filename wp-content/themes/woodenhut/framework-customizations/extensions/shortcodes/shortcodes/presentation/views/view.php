@@ -6,26 +6,8 @@
 
     <div class="container">
 
-        <h3 class="present__title" id="go_pr">Präsentation</h3>
-
-        <p>Ein Holzhaus aus verleimtem Nadelholz, Nutzfläche 17,4 m².
-            Wände aus KV-Kantholz 80 x 140 mm . Gegenläufige Einordnung der Holzfasern verstärkt bei der Verleimung die
-            Festigkeit des Materials, bei Feuchtegehalt um ca.12% gewährleistet das KVH-Holz die Unverschieblichkeit der
-            Holzkonstruktion.
-        </p>
-
-        <p>Schwellenbalken aus Kantholz 100x200 mm funktionieren als Fundamentbalken, diese ermöglichen die Montage des
-            Hauses sowohl auf Streifen- als auch auf die Einzelfundamente.
-            Außer Wand- und Fundamentbalken beinhalten die komplette Lieferung Fußbodenbalken, Bodendielen 40 mm dick,
-            Deckenbalken, Profilbretter der Decke und kompletten Dachstuhl.
-            Gehobelte Oberfläche der sichtbaren Hausteile braucht keine zusätzliche Bearbeitung und ist geeignet für
-            alle Typen der Holzfarben und -lasuren.
-        </p>
-
-        <p>Zum Bestandteil des Holzhauses gehören auch Holzfenster und –Türen, die als vorbeschichtete Bauteile mit
-            Bändern und Verglasung geliefert werden. </p>
-
-        <p>Es ist eine Dreifachverglasung aus Isolierglas bis 32 mm dick vorgesehen. </p>
+        <h3 class="present__title" id="go_pr"><?= $atts['title']; ?></h3>
+        <?= $atts['text']; ?>
 
     </div>
 

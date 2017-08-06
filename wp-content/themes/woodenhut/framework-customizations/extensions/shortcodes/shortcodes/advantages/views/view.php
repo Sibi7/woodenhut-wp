@@ -1,118 +1,105 @@
 <?php if ( ! defined( 'FW' ) ) {
-    die( 'Forbidden' );
+	die( 'Forbidden' );
 }
 ?>
 <div class="advant">
-
     <div class="container">
 
-        <h3 class="present__title" id="go_vor">Vorteile</h3>
-
+        <h3 class="present__title" id="go_vor"><?= $atts['title']; ?></h3>
         <div class="advant__item">
 
             <div class="advant__item--element">
 
-                <span class="advant__item--number">1</span>
+                <span class="advant__item--number"><?= $atts['advantages']['0']['numbers']; ?></span>
+                '
+                <h3 class="advant__item--title"><?= $atts['advantages']['0']['title']; ?></h3>
 
-                <h3 class="advant__item--title">Umweltfreundlichkeit.</h3>
+                <p><?= $atts['advantages']['0']['description']; ?></p>
 
-                <p>Das Holz ist das einzige regeneratives Baumaterial. Verarbeitung des Holzes beeinflusst positiv den
-                    CO2-Gehalt in der Atmosphäre.</p>
+            </div>
+            <div class="advant__item--element">
+
+                <span class="advant__item--number"><?= $atts['advantages']['1']['numbers']; ?></span>
+                '
+                <h3 class="advant__item--title"><?= $atts['advantages']['1']['title']; ?></h3>
+
+                <p><?= $atts['advantages']['1']['description']; ?></p>
+
+            </div>
+            <div class="advant__item--element">
+
+                <span class="advant__item--number"><?= $atts['advantages']['2']['numbers']; ?></span>
+                '
+                <h3 class="advant__item--title"><?= $atts['advantages']['2']['title']; ?></h3>
+
+                <p><?= $atts['advantages']['2']['description']; ?></p>
 
             </div>
 
+        </div>
+        <div class="advant__item">
+
             <div class="advant__item--element">
 
-                <span class="advant__item--number">2</span>
+                <span class="advant__item--number"><?= $atts['advantages']['3']['numbers']; ?></span>
+                '
+                <h3 class="advant__item--title"><?= $atts['advantages']['3']['title']; ?></h3>
 
-                <h3 class="advant__item--title">Wert.</h3>
+                <p><?= $atts['advantages']['3']['description']; ?></p>
 
-                <p>Relativ günstiger Preis bei einer hohen Qualität.</p>
+            </div>
+            <div class="advant__item--element">
+
+                <span class="advant__item--number"><?= $atts['advantages']['4']['numbers']; ?></span>
+                '
+                <h3 class="advant__item--title"><?= $atts['advantages']['4']['title']; ?></h3>
+
+                <p><?= $atts['advantages']['4']['description']; ?></p>
+
+            </div>
+            <div class="advant__item--element">
+
+                <span class="advant__item--number"><?= $atts['advantages']['5']['numbers']; ?></span>
+                '
+                <h3 class="advant__item--title"><?= $atts['advantages']['5']['title']; ?></h3>
+
+                <p><?= $atts['advantages']['5']['description']; ?></p>
 
             </div>
 
+        </div>
+        <div class="advant__item">
+
             <div class="advant__item--element">
 
-                <span class="advant__item--number">3</span>
+                <span class="advant__item--number"><?= $atts['advantages']['6']['numbers']; ?></span>
+                '
+                <h3 class="advant__item--title"><?= $atts['advantages']['6']['title']; ?></h3>
 
-                <h3 class="advant__item--title">Haltbarkeit.</h3>
+                <p><?= $atts['advantages']['6']['description']; ?></p>
 
-                <p>Bei einer kontinuierlichen Wartung wird das Brettschichtholzhaus für die Jahrhunderte
-                    standhalten.</p>
+            </div>
+            <div class="advant__item--element">
+
+                <span class="advant__item--number"><?= $atts['advantages']['7']['numbers']; ?></span>
+                '
+                <h3 class="advant__item--title"><?= $atts['advantages']['7']['title']; ?></h3>
+
+                <p><?= $atts['advantages']['7']['description']; ?></p>
+
+            </div>
+            <div class="advant__item--element">
+
+                <span class="advant__item--number"><?= $atts['advantages']['8']['numbers']; ?></span>
+                '
+                <h3 class="advant__item--title"><?= $atts['advantages']['8']['title']; ?></h3>
+
+                <p><?= $atts['advantages']['8']['description']; ?></p>
 
             </div>
 
         </div>
 
-        <div class="advant__item">
-
-            <div class="advant__item--element">
-
-                <span class="advant__item--number">4</span>
-
-                <h3 class="advant__item--title">Schnelles Errichten.</h3>
-
-                <p>Ein Bauteam aus 3 Handwerkern kann das Haus in 2 Tagen aufbauen.</p>
-
-            </div>
-
-            <div class="advant__item--element">
-
-                <span class="advant__item--number">5</span>
-
-                <h3 class="advant__item--title">Biologische Resistenz und Brandwiederstand.</h3>
-
-                <p>Durch Bearbeitung mit den Antiseptika und Brandschutzmittel schützt das Holt gegen Faulen und
-                    verhindert die Zündung.</p>
-
-            </div>
-
-            <div class="advant__item--element">
-
-                <span class="advant__item--number">6</span>
-
-                <h3 class="advant__item--title">Vorteilhaftes Mikroklima.</h3>
-
-                <p>Das Holz ist im Stande die Feuchtigkeit speichern und wieder ausdunsten, damit wird das Mikroklima
-                    reguliert. Stabile Feuchtigkeit und angenehmes Nadelholzaroma werden im Raum bewahrt.</p>
-
-            </div>
-
-        </div>
-
-        <div class="advant__item">
-
-            <div class="advant__item--element">
-
-                <span class="advant__item--number">7</span>
-
-                <h3 class="advant__item--title">Vielseitige Anwendbarkeit.</h3>
-
-                <p>Das Holzhaus ist Mehrfunktional als Sauna, Ferien- oder Gartenhaus lieferbar.</p>
-
-            </div>
-
-            <div class="advant__item--element">
-
-                <span class="advant__item--number">8</span>
-
-                <h3 class="advant__item--title">Gute Wärmedämmung.</h3>
-
-                <p>Wärmeleitfähigkeit des Nadelholzes ist 6-fach geringer als bei dem keramischen Ziegel.</p>
-
-            </div>
-
-            <div class="advant__item--element">
-
-                <span class="advant__item--number">9</span>
-
-                <h3 class="advant__item--title">Geringe Schwindung.</h3>
-
-                <p>Der Ausbau kann sofort durchgeführt werden. Die Schwindungsrate der Konstruktion übersteigt nicht 2%.</p>
-
-            </div>
-
-        </div>
 
     </div>
 

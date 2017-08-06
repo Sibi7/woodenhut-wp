@@ -8,7 +8,6 @@
 
 ?>
 <header class="header" >
-<?php fw_print($atts) ?>
     <div class="container">
 
         <div class="header__banner" style=" background: url(<?= $atts['background_img']['url'] ; ?>) no-repeat 50%; background-size: cover;">
@@ -21,18 +20,12 @@
             </div>
 
             <div class="header__navbar">
-
-                <nav class="header__navbar--top">
-                    <ul>
-                        <li><a href="#">hauptseite</a></li>
-                        <li><a href="#go_pr" class="smoothScroll">präsentation</a></li>
-                        <li><a href="#go_bil" class="smoothScroll">bilder</a></li>
-                        <li><a href="#go_vor" class="smoothScroll">Vorteile</a></li>
-                        <li><a href="#go_price" class="smoothScroll">Preise</a></li>
-                        <li><a href="#go_contact" class="smoothScroll">Kontakt</a></li>
-                    </ul>
-                </nav>
-
+                <?php wp_nav_menu( array(
+	                'theme_location'  => 'header',
+	                'container'       => 'nav',
+	                'container_class' => 'header__navbar--top',
+                ) );
+                ?>
             </div>
 
             <h1 class="header__title"><?= $atts['text']; ?></h1>

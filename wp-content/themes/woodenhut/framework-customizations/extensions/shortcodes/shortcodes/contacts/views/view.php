@@ -31,7 +31,7 @@
 
 
     <a id="Go_Top">
-        <img alt="up" src="img/icons/up.png">
+        <img alt="up" src="<?php bloginfo('template_directory') ;?>/img/icons/up.png">
     </a>
 
 </footer>

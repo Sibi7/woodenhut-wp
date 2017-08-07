@@ -1,13 +1,418 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc156f03-02d3-4e4f-b40b-2c9ace7a26a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="64f21303-d37c-42a2-82b9-8dbb25b1c00b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/body-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/exemple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/icons/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/icons/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/icons/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/icons/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/icons/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/icons/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/main-banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/photo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/photo10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/photo11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/photo12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/photo13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/photo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/photo3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/photo4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/photo5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/photo6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/photo7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/photo8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/photo9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/html/advantages.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/html/bilder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/html/content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/html/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/html/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/html/html_close.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/html/html_open.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/html/pages/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/html/presentation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/html/price.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/img/icons/zoom-out.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/libs/lightbox/lightbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/libs/normalize-css/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/libs/normalize-css/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/libs/normalize-css/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/libs/normalize-css/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/libs/normalize-css/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/libs/normalize-css/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/libs/normalize-css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/libs/owl/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/base/.sassbuilder-config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/base/_base.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/base/_elements.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/base/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/base/_style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/_animate.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/_compass.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/_lemonade.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/animation/_animate.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/animation/_core.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/animation/_shared.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/animation/animate/_attention-seekers.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/animation/animate/_bouncing.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/animation/animate/_classes.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/animation/animate/_fading.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/animation/animate/_flippers.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/animation/animate/_lightspeed.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/animation/animate/_rotating.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/animation/animate/_specials.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/animation/animate/bouncing/_bouncing-entrances.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/animation/animate/bouncing/_bouncing-exits.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/animation/animate/fading/_fading-entrances.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/animation/animate/fading/_fading-exits.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/animation/animate/rotating/_rotating-entrances.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/animation/animate/rotating/_rotating-exits.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/_css3.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/_functions.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/_layout.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/_reset-legacy.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/_reset.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/_support.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/_typography.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/_utilities.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_animation.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_appearance.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_background-clip.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_background-origin.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_background-size.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_border-radius.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_box-shadow.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_box-sizing.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_box.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_columns.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_filter.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_flexbox.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_font-face.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_hyphenation.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_images.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_inline-block.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_opacity.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_pie.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_regions.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_shared.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_text-shadow.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_transform-legacy.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_transform.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_transition.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/css3/_user-interface.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/functions/_colors.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/functions/_constants.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/functions/_cross_browser_support.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/functions/_display.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/functions/_gradient_support.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/functions/_lists.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/layout/_grid-background.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/layout/_sticky-footer.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/layout/_stretching.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/reset/_utilities-legacy.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/reset/_utilities.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/typography/_links.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/typography/_lists.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/typography/_text.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/typography/_vertical_rhythm.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/typography/links/_hover-link.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/typography/links/_link-colors.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/typography/links/_unstyled-link.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/typography/lists/_bullets.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/typography/lists/_horizontal-list.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/typography/lists/_inline-block-list.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/typography/lists/_inline-list.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/typography/text/_ellipsis.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/typography/text/_force-wrap.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/typography/text/_nowrap.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/typography/text/_replacement.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/_color.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/_general.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/_links.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/_lists.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/_print.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/_sprites.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/_tables.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/_text.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/color/_contrast.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/general/_clearfix.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/general/_float.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/general/_hacks.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/general/_min.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/general/_reset.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/general/_tabs.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/general/_tag-cloud.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/links/_hover-link.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/links/_link-colors.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/links/_unstyled-link.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/lists/_bullets.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/lists/_horizontal-list.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/lists/_inline-block-list.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/lists/_inline-list.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/sprites/_base.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/sprites/_sprite-img.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/tables/_alternating-rows-and-columns.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/tables/_borders.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/tables/_scaffolding.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/text/_ellipsis.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/text/_nowrap.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/compass-sass-mixins/compass/utilities/text/_replacement.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/content/.sassbuilder-config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/content/_advatages.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/content/_bilder.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/content/_index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/content/_present.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/content/_price.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/content/_style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/footer/.sassbuilder-config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/footer/_style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/header/.sassbuilder-config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/header/_head.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/header/_navigation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/header/_style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/libs/.sassbuilder-config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/libs/_fonts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/libs/_fotorama.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/libs/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/libs/_style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/responsive/_style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/styles.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/app/sass/styles.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/gulpfile.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/woodenhut.dev.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/404.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/archive.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/author-bio.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-link.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-none.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content-search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/content.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/css/editor-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/css/ie.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/css/ie7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/COPYING.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/Genericons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/genericons/genericons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/back-compat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/custom-header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/customizer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/inc/template-tags.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/color-scheme-control.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/customize-preview.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/functions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/html5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/keyboard-image-navigation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/single.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/404.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/archive.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/colors-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/editor-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/ie8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/css/ie9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/coffee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/espresso.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/sandwich.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/images/svg-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/customize-controls.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/customize-preview.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/global.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/html5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/navigation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/front-page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/back-compat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/color-patterns.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/custom-header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/customizer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/icon-functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/template-functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/inc/template-tags.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/searchform.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/single.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/header/header-image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/page/content-front-page-panels.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/page/content-front-page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/page/content-page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-gallery.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-none.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content-video.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/post/content.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/404.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/archive.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/editor-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/ie.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/ie7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/css/ie8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/COPYING.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/Genericons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/genericons/genericons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/inc/back-compat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/inc/customizer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/inc/template-tags.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/color-scheme-control.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/customize-preview.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/functions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/html5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/keyboard-image-navigation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/searchform.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/sidebar-content-bottom.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/single.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/biography.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-none.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content-single.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/template-parts/content.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/plugins/akismet-ru_RU.mo" afterPath="$PROJECT_DIR$/wp-content/languages/plugins/akismet-ru_RU.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-config.php" afterPath="$PROJECT_DIR$/wp-config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/plugins/akismet-ru_RU.po" afterPath="$PROJECT_DIR$/wp-content/languages/plugins/akismet-ru_RU.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/.htaccess" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/LICENSE.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/form.js" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-cli.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-cli.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-widget.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/config.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/get.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/get.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/notice.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/notice.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/start.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/start.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/stats.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/stats.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/hello.php" afterPath="$PROJECT_DIR$/wp-content/plugins/hello.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/404.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/404.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/css/libs.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/css/libs.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/css/styles.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/css/styles.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/fonts/Arial/ArialBlack.svg" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/fonts/Arial/ArialBlack.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/fonts/Arial/ArialBold.svg" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/fonts/Arial/ArialBold.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/fonts/Arial/ArialBoldItalic.svg" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/fonts/Arial/ArialBoldItalic.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/fonts/Arial/ArialItalic.svg" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/fonts/Arial/ArialItalic.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/fonts/Arial/ArialRegular.svg" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/fonts/Arial/ArialRegular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/fonts/CenturyGothic/CenturyGothicBold.svg" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/fonts/CenturyGothic/CenturyGothicBold.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/fonts/CenturyGothic/CenturyGothicRegular.svg" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/fonts/CenturyGothic/CenturyGothicRegular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/fonts/CenturyGothic/CenturyGothicStdItalic.svg" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/fonts/CenturyGothic/CenturyGothicStdItalic.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/extensions/page-builder/config.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/extensions/page-builder/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/hooks.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/hooks.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/advantages/config.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/advantages/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/advantages/options.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/advantages/options.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/advantages/views/view.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/advantages/views/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/config.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/options.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/options.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/views/view.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/views/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/contacts/config.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/contacts/config.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/contacts/options.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/contacts/options.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/contacts/views/view.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/contacts/views/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/home/config.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/home/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/home/options.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/home/options.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/home/views/view.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/home/views/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/preise/config.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/preise/config.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/preise/options.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/preise/options.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/preise/views/view.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/preise/views/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/presentation/config.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/presentation/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/presentation/options.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/presentation/options.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/presentation/views/view.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/presentation/views/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/theme/options/customizer.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/theme/options/customizer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/theme/options/posts/post-type.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/theme/options/posts/post-type.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/theme/options/taxonomies/taxonomy.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/theme/options/taxonomies/taxonomy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/includes/custom-functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/includes/custom-functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/includes/post.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/includes/post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/js/customizer.js" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/js/customizer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/js/jquery-2.1.3.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/js/jquery-2.1.3.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/js/lightbox.js" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/js/lightbox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/js/navigation.js" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/js/navigation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/js/owl.carousel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/js/script.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/js/script.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/js/skip-link-focus-fix.js" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/js/skip-link-focus-fix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/page.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/search.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/search.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/single.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/single.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/template-parts/content-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/template-parts/content-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/woodenhut/template-parts/content-search.php" afterPath="$PROJECT_DIR$/wp-content/themes/woodenhut/template-parts/content-search.php" />
     </list>
+    <ignored path="woodenhut-wp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,50 +420,31 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <expand />
-    <select />
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
   </component>
-  <component name="FileColors">
-    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
-    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
-    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
-    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="woodenhut-wp" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="view.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/contacts/views/view.php">
+    <leaf>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            <state relative-caret-position="421">
+              <caret line="142" column="3" selection-start-line="142" selection-start-column="3" selection-end-line="142" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="options.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/contacts/options.php">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/app/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="673">
-              <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="options.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/preise/options.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="13" column="6" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="13" selection-end-column="6" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -72,55 +458,34 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/presentation/config.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/home/config.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/header.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/footer.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/contacts/config.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/config.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/advantages/config.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/preise/config.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/index.html" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/home/options.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/presentation/options.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/presentation/views/view.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/includes/custom-functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/js/script.min.js" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/home/views/view.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/views/view.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/options.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/advantages/options.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/advantages/views/view.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/preise/options.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/preise/views/view.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/contacts/options.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/contacts/views/view.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/woodenhut/gulpfile.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsFlowSettings">
-    <service-enabled>false</service-enabled>
-    <exe-path />
-    <annotation-enable>false</annotation-enable>
-    <other-services-enabled>false</other-services-enabled>
-    <auto-save>true</auto-save>
-  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="-7" />
+    <option name="width" value="1694" />
+    <option name="height" value="1024" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -137,628 +502,175 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="woodenhut.dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="woodenhut.dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="woodenhut.dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="woodenhut.dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="woodenhut.dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="woodenhut.dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="woodenhut.dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="woodenhut.dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="woodenhut" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="woodenhut.dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="woodenhut.dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="woodenhut" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="framework-customizations" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="woodenhut.dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="woodenhut.dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="woodenhut" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="framework-customizations" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="extensions" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="woodenhut.dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="woodenhut.dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="woodenhut" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="framework-customizations" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="extensions" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shortcodes" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="woodenhut.dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="woodenhut.dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="woodenhut" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="framework-customizations" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="extensions" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shortcodes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shortcodes" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="woodenhut.dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="woodenhut.dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="woodenhut" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="framework-customizations" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="extensions" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shortcodes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shortcodes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="contacts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="woodenhut.dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="woodenhut.dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="woodenhut" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="framework-customizations" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="extensions" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shortcodes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shortcodes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="contacts" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="woodenhut.dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="woodenhut.dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="woodenhut" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="framework-customizations" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="extensions" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shortcodes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shortcodes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="preise" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="woodenhut.dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="woodenhut.dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="woodenhut" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="framework-customizations" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="extensions" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shortcodes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shortcodes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="preise" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="woodenhut.dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="woodenhut.dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="woodenhut" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="woodenhut.dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="woodenhut.dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="woodenhut" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woodenhut-wp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woodenhut-wp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woodenhut-wp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woodenhut-wp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woodenhut-wp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woodenhut-wp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woodenhut-wp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woodenhut" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
-    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../berkana-master" />
-    <property name="ignore_missing_gitignore" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="prop_add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\openserver\domains\woodenhut.dev\wp-content\themes\woodenhut\framework-customizations\extensions\shortcodes\shortcodes" />
+      <recent name="D:\OpenServer\domains\woodenhut-wp\wp-content\themes\woodenhut" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dc156f03-02d3-4e4f-b40b-2c9ace7a26a2" name="Default" comment="" />
-      <created>1501694087996</created>
+      <changelist id="64f21303-d37c-42a2-82b9-8dbb25b1c00b" name="Default" comment="" />
+      <created>1502087634510</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1501694087996</updated>
-      <workItem from="1501694089563" duration="4923000" />
-      <workItem from="1501701093728" duration="6273000" />
-      <workItem from="1501740933033" duration="73000" />
-      <workItem from="1501762806566" duration="628000" />
-      <workItem from="1501828721473" duration="794000" />
-      <workItem from="1501854304137" duration="2291000" />
-      <workItem from="1501946409643" duration="1710000" />
-      <workItem from="1501997040527" duration="3000" />
-      <workItem from="1501997111279" duration="9635000" />
+      <updated>1502087634510</updated>
+      <workItem from="1502087637465" duration="3571000" />
     </task>
-    <task id="LOCAL-00001" summary="shortcode breakdown">
-      <created>1501700935263</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1501700935263</updated>
-    </task>
-    <task id="LOCAL-00002" summary="view section">
-      <created>1501707268838</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1501707268838</updated>
-    </task>
-    <task id="LOCAL-00003" summary="add advantages section">
-      <created>1502000469655</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1502000469655</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26330000" />
+    <option name="totallyTimeSpent" value="3571000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1694" height="1024" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21428572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33028573" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33394384" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
     </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="shortcode breakdown" />
-    <MESSAGE value="view section" />
-    <MESSAGE value="add advantages section" />
-    <option name="LAST_COMMIT_MESSAGE" value="add advantages section" />
-  </component>
-  <component name="WordPressConfiguration" enabled="true">
-    <wordpressPath>C:\openserver\domains\woodenhut.dev</wordpressPath>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/views/view.php">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        <state relative-caret-position="29">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/advantages/views/view.php">
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1092">
-          <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/advantages/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        <state relative-caret-position="348">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/advantages/options.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="58" lean-forward="true" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        <state relative-caret-position="421">
+          <caret line="142" column="3" selection-start-line="142" selection-start-column="3" selection-end-line="142" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/views/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/advantages/views/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
-          <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/advantages/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/advantages/options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="58" lean-forward="true" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/views/view.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/app/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/views/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="26" column="36" lean-forward="false" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/home/views/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/js/script.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/includes/custom-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="37" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="19" column="57" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/views/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/views/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/views/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/home/views/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/home/options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="57" lean-forward="false" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/presentation/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/home/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/contacts/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/index.html" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/home/options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="26" column="6" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="26" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/presentation/views/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/presentation/options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/img/icons/up.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/js/script.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="22" column="3" lean-forward="false" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/home/views/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/includes/custom-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/advantages/options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="18" column="50" lean-forward="true" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/advantages/views/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-133">
-          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/advantages/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/views/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/preise/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/bilder/options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="6" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="18" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/preise/views/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/preise/options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="13" column="6" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="13" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/contacts/options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/woodenhut/framework-customizations/extensions/shortcodes/shortcodes/contacts/views/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

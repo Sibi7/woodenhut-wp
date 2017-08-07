@@ -1,0 +1,63 @@
+$ArialRegular: 'Arial Regular';
+$ArialBlack: 'Arial Black';
+$ArialBold: 'Arial Bold';
+$ArialBoldItalic: 'Arial Bold Italic';
+$ArialItalic: 'Arial Italic';
+$CenturyGothicRegular: 'Century Gothic Regular';
+
+@font-face {
+  font-family: 'Arial Regular';
+  src: url('../fonts/Arial/ArialRegular.eot') format('embedded-opentype'),
+  url('../fonts/Arial/ArialRegular.woff2') format('woff2'),
+  url('../fonts/Arial/ArialRegular.woff') format('woff'),
+  url('../fonts/Arial/ArialRegular.ttf') format('truetype'),
+  url('../fonts/Arial/ArialRegular.svg') format('svg');
+}
+@font-face {
+  font-family: 'Arial Black';
+  src: url('../fonts/Arial/ArialBlack.eot') format('embedded-opentype'),
+  url('../fonts/Arial/ArialBlack.woff2') format('woff2'),
+  url('../fonts/Arial/ArialBlack.woff') format('woff'),
+  url('../fonts/Arial/ArialBlack.ttf') format('truetype'),
+  url('../fonts/Arial/ArialBlack.svg') format('svg');
+}
+@font-face {
+  font-family: 'Arial Bold';
+  src: url('../fonts/Arial/ArialBold.eot') format('embedded-opentype'),
+  url('../fonts/Arial/ArialBold.woff2') format('woff2'),
+  url('../fonts/Arial/ArialBold.woff') format('woff'),
+  url('../fonts/Arial/ArialBold.ttf') format('truetype'),
+  url('../fonts/Arial/ArialBold.svg') format('svg');
+}
+@font-face {
+  font-family: 'Arial Bold Italic';
+  src: url('../fonts/Arial/ArialBoldItalic.eot') format('embedded-opentype'),
+  url('../fonts/Arial/ArialBoldItalic.woff2') format('woff2'),
+  url('../fonts/Arial/ArialBoldItalic.woff') format('woff'),
+  url('../fonts/Arial/ArialBoldItalic.ttf') format('truetype'),
+  url('../fonts/Arial/ArialBoldItalic.svg') format('svg');
+}
+@font-face {
+  font-family: 'Arial Italic';
+  src: url('../fonts/Arial/ArialItalic.eot') format('embedded-opentype'),
+  url('../fonts/Arial/ArialItalic.woff2') format('woff2'),
+  url('../fonts/Arial/ArialItalic.woff') format('woff'),
+  url('../fonts/Arial/ArialItalic.ttf') format('truetype'),
+  url('../fonts/Arial/ArialItalic.svg') format('svg');
+}
+@font-face {
+  font-family: 'Arial Italic';
+  src: url('../fonts/Arial/ArialItalic.eot') format('embedded-opentype'),
+  url('../fonts/Arial/ArialItalic.woff2') format('woff2'),
+  url('../fonts/Arial/ArialItalic.woff') format('woff'),
+  url('../fonts/Arial/ArialItalic.ttf') format('truetype'),
+  url('../fonts/Arial/ArialItalic.svg') format('svg');
+}
+@font-face {
+  font-family: 'Century Gothic Regular';
+  src: url('../fonts/CenturyGothic/CenturyGothicRegular.eot') format('embedded-opentype'),
+  url('../fonts/CenturyGothic/CenturyGothicRegular.woff2') format('woff2'),
+  url('../fonts/CenturyGothic/CenturyGothicRegular.woff') format('woff'),
+  url('../fonts/CenturyGothic/CenturyGothicRegular.ttf') format('truetype'),
+  url('../fonts/CenturyGothic/CenturyGothicRegular.svg') format('svg');
+}

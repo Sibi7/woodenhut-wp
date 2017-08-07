@@ -1,0 +1,56 @@
+.header__navbar{
+  display: block;
+  position: relative;
+  width: calc(100% - 210px);
+  float: left;
+  margin-top: 20px;
+  &--top{
+    display: block;
+    position: relative;
+    width: 100%;
+    float: left;
+    ul{
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      width: 100%;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      li{
+        display: block;
+        position: relative;
+        float: left;
+        &:hover{
+          a:after{
+            width: 100%;
+          }
+        }
+        a{
+          display: block;
+          position: relative;
+          float: left;
+          padding: 14px 20px;
+          @include border-box;
+          color: #ffffff;
+          font-family: $ArialRegular;
+          font-size: 31px;
+          letter-spacing: 0;
+          text-transform: capitalize;
+        }
+        a:after{
+          display: block;
+          position: absolute;
+          content: "";
+          bottom: 10px;
+          left: 0;
+          width: 0;
+          height: 3px;
+          background-color: #fff;
+          @include transition(0.2s)
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,102 @@
+@media only screen and (max-width: 1024px) {
+  .header__navbar--top ul li a {
+    font-size: 23px;
+  }
+  .header__banner {
+    height: 479px;
+  }
+}
+
+@media only screen and (max-width: 980px) {
+  .header__logo {
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 40px;
+    height: 50px;
+  }
+  .header__navbar {
+    margin-top: 20px;
+    width: calc(100% - 182px);
+  }
+  .header__navbar--top ul li a {
+    font-size: 14px;
+  }
+  .header__title {
+    margin: 0;
+    margin-top: 13px;
+  }
+  .header__banner {
+    height: 368px;
+  }
+  .advant__item--number {
+    width: 20px;
+    height: 20px;
+    font-size: 18px;
+  }
+  .advant__item--number:before {
+    top: -3px;
+    left: -4px;
+    width: 20px;
+    height: 20px;
+  }
+  .advant__item--title {
+    font-size: 16px;
+  }
+  .advant__item--element p {
+    font-size: 14px;
+    line-height: 21px;
+  }
+}
+
+@media only screen and (max-width: 770px) {
+  .header__logo {
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 40px;
+    height: 50px;
+  }
+  .header__navbar {
+    margin-top: 20px;
+    width: calc(100% - 182px);
+  }
+  .header__navbar--top ul li a {
+    font-size: 14px;
+  }
+  .header__title {
+    margin: 0;
+    margin-top: 13px;
+  }
+  .header__banner {
+    height: 368px;
+  }
+  .advant__item--number {
+    width: 20px;
+    height: 20px;
+    font-size: 18px;
+  }
+  .advant__item--number:before {
+    top: -3px;
+    left: -4px;
+    width: 20px;
+    height: 20px;
+  }
+  .advant__item--title {
+    font-size: 16px;
+  }
+  .advant__item--element p {
+    font-size: 14px;
+    line-height: 21px;
+  }
+}
+
+@media only screen and (max-width: 736px) {
+	
+}
+
+@media only screen and (max-width: 500px) {
+	
+}
+
+@media only screen and (max-width: 320px) {
+	
+}
